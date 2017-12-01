@@ -1,1 +1,1 @@
-"# BootBar Template" 
+# BootBar Template
